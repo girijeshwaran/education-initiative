@@ -22,15 +22,11 @@ It includes behavioral, creational, and structural patterns to illustrate practi
 
 ## How to Run
 1. Navigate to the `src` folder:  
-```bash
-cd src```
+```bash cd src```
 
 2.Compile all Java files:
 
-```bash
-javac */*/*.java Main.java```
-
+```bash javac */*/*.java Main.java```
 3.Run the application:
 
-```bash
-java Main```
+```bash java Main```
