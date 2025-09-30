@@ -1,6 +1,3 @@
-Sure! Here's your Mars Rover project README formatted neatly in a single code block so you can copy it easily:
-
-````markdown
 # Mars Rover Programming Problem
 
 Simulate a rover moving on a rectangular grid:
@@ -11,7 +8,7 @@ Simulate a rover moving on a rectangular grid:
 
 The rover navigates around obstacles, with grid boundaries enforced.
 
----
+
 
 ## Features
 
@@ -22,7 +19,7 @@ The rover navigates around obstacles, with grid boundaries enforced.
 - Observer logs position changes  
 - Extensible command system  
 
----
+
 
 ## Design Patterns Used
 
@@ -33,7 +30,7 @@ The rover navigates around obstacles, with grid boundaries enforced.
 - **Singleton** – manages the grid  
 - **State/Strategy + Factory** – handles directions (N, S, E, W)  
 
----
+
 
 ## How to Run
 
@@ -64,4 +61,5 @@ java core.MarsRoverApp
 3. Enter the rover's starting position and direction (e.g., `1 2 N`).
 4. Input a string of commands (`M`, `L`, `R`) to move the rover.
 5. Repeat until you type `exit`.
+
 
