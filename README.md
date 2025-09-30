@@ -1,4 +1,4 @@
-# Java Design Patterns & Mars Rover Demo
+# Java Design Patterns & Mars Rover Project
 
 ## Introduction
 
